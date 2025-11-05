@@ -1,0 +1,22 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <view name="menu">
+
+    <menuBackground name="menubg">
+      <color>202020</color>
+    </menuBackground>
+
+    <menuText name="menutext, menutitle">
+      <fontPath>./_art/Acre.otf</fontPath>
+      <fontSize>.029</fontSize>
+      <color>ffffff</color>
+    </menuText>
+
+    <menuText name="menufooter, menutextsmall">
+      <fontPath>./_art/Acre.otf</fontPath>
+      <fontSize>.029</fontSize>
+      <color>ffffff</color>
+    </menuText>
+
+  </view>
+</theme>
