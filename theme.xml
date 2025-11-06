@@ -128,7 +128,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <image name="background" extra="true">
       <tile>false</tile>
-      <path>./_art/ingame-global-bg.jpg</path>
+      <path>./_art/bg.jpg</path>
       <size>1 1</size>
       <pos>0 0</pos>
     </image>
